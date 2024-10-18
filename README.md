@@ -10,7 +10,8 @@ as a **valuable learning resource** for anyone interested in mobile app creation
 ## Focus
 
 * **MVC** Code Architecture
-* **GetX** State management
+* **GetX** State Management
+* **Sqflite** Offline Database
 
 ## Features
 
